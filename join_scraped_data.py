@@ -1,7 +1,6 @@
 import glob
 import pandas as pd
 import os
-from pathlib import Path
 
 path = '/home/guilherme/grad/projetoCienciaDeDados/data_to_join'
 
